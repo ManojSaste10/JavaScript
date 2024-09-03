@@ -1,4 +1,4 @@
 # JavaScript
 JavaScript Practice code with Notes.
 <br>
-Author - Manoj Saste
+Author - Manoj P Saste
